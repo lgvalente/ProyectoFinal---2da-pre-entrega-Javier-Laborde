@@ -685,15 +685,7 @@ header{
     font-size: 24px;
 }
 
-.logoInicioSesion{
-    height: 100px;
-    width: 150px;
-    background-image: url(./img/logo-viajaja.png);
-    background-size: cover;
-    background-position: center;
-    margin-left: 50px;
-    margin-bottom: 20px;
-}
+
 
 .exampleInputPassword1{
     padding-top: 55px;
@@ -831,16 +823,6 @@ header{
 
 .form-group label{
     font-size: 24px;
-}
-
-.logoInicioSesion{
-    height: 100px;
-    width: 150px;
-    background-image: url(./img/logo-viajaja.png);
-    background-size: cover;
-    background-position: center;
-    margin-left: 50px;
-    margin-bottom: 20px;
 }
 
 .exampleInputPassword1{
